@@ -1,0 +1,13 @@
+INSERT INTO category (label) VALUES ('Pop!');
+INSERT INTO category (label) VALUES ('Bitty Pop!');
+INSERT INTO category (label) VALUES ('Rewind');
+INSERT INTO category (label) VALUES ('Vinyl SODA');
+INSERT INTO category (label) VALUES ('Vinyl GOLD');
+INSERT INTO category (label) VALUES ('Mini Figures');
+INSERT INTO category (label) VALUES ('Games');
+INSERT INTO category (label) VALUES ('Popsies');
+INSERT INTO category (label) VALUES ('Pops! with Purpose');
+INSERT INTO category (label) VALUES ('Funko Gear');
+INSERT INTO category (label) VALUES ('Pins');
+INSERT INTO category (label) VALUES ('Apparel');
+INSERT INTO category (label) VALUES ('Accessories');
